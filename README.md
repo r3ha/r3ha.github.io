@@ -16,4 +16,4 @@
 ## 2020
 ### February
 *新的开始。*
-* February 05, 2020 **»** [参数key = lambda 在sorted() 中的实现过程](https://github.com/jawil/blog/issues/30)
+* February 05, 2020 **»** [:key = lambda x:x[i] 在sorted() 中的实现](https://github.com/jawil/blog/issues/30)
