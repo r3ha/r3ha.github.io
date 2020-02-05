@@ -16,4 +16,4 @@
 ## 2020
 ### February
 *新的开始。*
-* February 05, 2020 **»** [**key = lambda x:x[i]** 在**sorted()** 中的实现](https://github.com/jawil/blog/issues/30)
+* February 05, 2020 **»** [**key = lambda x:x[i]** 在**sorted()** 中的实现](https://github.com/r3ha/r3ha.github.io/issues/1)
