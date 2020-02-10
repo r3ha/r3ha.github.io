@@ -9,4 +9,4 @@
 ## 2020
 ### February
 
-* February 05, 2020 **»** [**key = lambda x:x[i]** 在**sorted()** 中的实现](https://github.com/r3ha/r3ha.github.io/issues/1){target="_blank"}
+* February 05, 2020 **»** [sorted(iterable, key)函数和sort(key)属性中的参数key=lambda x怎么工作的](https://github.com/r3ha/r3ha.github.io/issues/1)
