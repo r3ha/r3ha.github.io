@@ -7,6 +7,6 @@
 ## 2020
 ### February
 
-* February 28, 2020 **»** [写程序之前，先仔细搜索一下已实现此功能的其他方法，浪费生命很不好](https://github.com/r3ha/r3ha.github.io/issues/2)
+* February 28, 2020 **»** [search before code !](https://github.com/r3ha/r3ha.github.io/issues/2)
 
 * February 05, 2020 **»** [sorted(iterable, key)函数和sort(key)属性中的参数key=lambda x怎么工作的](https://github.com/r3ha/r3ha.github.io/issues/1)
