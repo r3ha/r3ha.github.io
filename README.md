@@ -10,3 +10,8 @@
 * February 28, 2020 **»** [search before code !](https://github.com/r3ha/r3ha.github.io/issues/2)
 
 * February 05, 2020 **»** [sorted(iterable, key)函数和sort(key)属性中的参数key=lambda x怎么工作的](https://github.com/r3ha/r3ha.github.io/issues/1)
+
+## 2021
+### June
+
+* June 26, 2021 **»** [bash命令](https://github.com/r3ha/r3ha.github.io/issues/3)
