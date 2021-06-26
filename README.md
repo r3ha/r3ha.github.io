@@ -14,4 +14,4 @@
 ## 2021
 ### June
 
-* June 26, 2021 **»** [bash命令](https://github.com/r3ha/r3ha.github.io/issues/3)
+* June 26, 2021 **»** [bash命令](https://github.com/r3ha/r3ha.github.io/issues/5)
